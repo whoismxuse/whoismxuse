@@ -8,8 +8,8 @@ I’m a blockchain and DLT focused SR dedicated to securing protocols through bu
 - Reached 3rd on the 90 Day Leaderboard on Immunefi.
 - Multiple top 3 placements across competitions.
 
-### Credentials
-- [Sherlock](https://audits.sherlock.xyz/watson/iammxuse)
+#### Socials
+- [Audit Portfolio](https://audits.sherlock.xyz/watson/iammxuse)
 - [Immunefi](https://immunefi.com/profile/okmxuse)
 - [X](https://x.com/home)
 
