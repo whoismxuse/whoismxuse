@@ -1,5 +1,7 @@
 #### whoismxuse ? 
 
+![Stars](./stars.gif)
+
 I’m a blockchain and DLT focused SR dedicated to securing protocols through bug bounties, private audits, and continuous vulnerability research.
 
 
