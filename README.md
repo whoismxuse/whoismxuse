@@ -7,7 +7,7 @@ I’m a blockchain and DLT focused SR dedicated to securing protocols through bu
 - Researcher at Spearbit
 - [Senior Immunefi All Star](https://immunefi.com/profile/okmxuse/)
 - [CometBFT ASA-2025-003](https://github.com/cometbft/cometbft/security/advisories/GHSA-hrhf-2vcr-ghch) Discovered a severe CometBFT bug that left all implementing networks vulnerable to a complete halt.
-- Found several chain halting bugs in Cosmos
+- Found several chain halting bugs in Cometbft
 - Reached 3rd on the 90 Day Leaderboard on Immunefi.
 - Among the top researchers on [Cantina](https://cantina.xyz/u/mxuse)
 - Multiple top 3 placements across competitions.
@@ -15,8 +15,8 @@ I’m a blockchain and DLT focused SR dedicated to securing protocols through bu
 
 
 #### Socials
-- [Audit Portfolio](https://audits.sherlock.xyz/watson/iammxuse)
 - [Immunefi](https://immunefi.com/profile/okmxuse)
-- [X](https://x.com/home)
+- [HackerOne](https://hackerone.com/mxuse)
+- [Audit Portfolio](https://audits.sherlock.xyz/watson/iammxuse)
 
 ![](./image.jpg)
